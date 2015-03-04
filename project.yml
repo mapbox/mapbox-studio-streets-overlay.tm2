@@ -13,7 +13,7 @@ center:
   - -74.0053
   - 40.7123
   - 14
-description: ''
+description: Labels, boundaries, and streets with transparent background for overlaying on custom imagery.
 format: "png8:m=h:c=128"
 interactivity_layer: ''
 layers: null
