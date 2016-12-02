@@ -1,5 +1,5 @@
 {
-  "name": "mapbox-studio-streets-overlay",
+  "name": "@mapbox/mapbox-studio-streets-overlay",
   "version": "1.0.1",
   "description": "Mapbox Streets Overlay for Mapbox Studio.",
   "main": "./package.json"
